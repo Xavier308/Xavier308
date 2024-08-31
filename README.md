@@ -19,7 +19,7 @@ I'm Xavier, a passionate developer who loves to create and innovate. With a keen
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
 
-## Top Languages
+## 💻 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xavier308)
 
 
@@ -32,6 +32,8 @@ I'm Xavier, a passionate developer who loves to create and innovate. With a keen
 ## 📌 Pinned Repositories
 <!-- You can add your pinned repositories here once you have some to showcase -->
 ![Github Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xavier308&repo=holbertonschool-higher_level_programming)
+![Github Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xavier308&repo=holbertonschool-low_level_programming )
+![Github Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xavier308&repo=Arduino)
 
 ## 🎉 Thanks for visiting!
 Feel free to star ⭐ some repositories if you find them interesting! I'm always open to collaborating on exciting projects, especially those related to health and innovation.
