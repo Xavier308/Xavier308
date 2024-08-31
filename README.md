@@ -34,7 +34,7 @@ I'm Xavier, a passionate developer who loves to create and innovate. With a keen
 
 ## 📈 Contribution Graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Xavier308&theme=algolia&refresh=1)
-
+![Github Activity graph](https://activity-graph.herokuapp.com/graph?username=Xavier308l&theme=react-dark&hide_border=true&custom_title=Activity%20Graph)
 ## 🎉 Thanks for visiting!
 Feel free to star ⭐ some repositories if you find them interesting! I'm always open to collaborating on exciting projects, especially those related to health and innovation.
 
