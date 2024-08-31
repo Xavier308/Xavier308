@@ -19,6 +19,9 @@ I'm Xavier, a passionate developer who loves to create and innovate. With a keen
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
 
+## Top Languages
+[![Type 2](https://img.shields.io/static/v1?label=|&message=msg&color=ff&style=for-the-badge&logo=logoname&logo-color=white)]
+
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Xavier308&show_icons=true&theme=algolia)
 
@@ -29,7 +32,7 @@ I'm Xavier, a passionate developer who loves to create and innovate. With a keen
 <!-- You can add your pinned repositories here once you have some to showcase -->
 
 ## 📈 Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Xavier308&theme=dracula)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Xavier308&theme=algolia)
 
 ## 🎉 Thanks for visiting!
 Feel free to star ⭐ some repositories if you find them interesting! I'm always open to collaborating on exciting projects, especially those related to health and innovation.
