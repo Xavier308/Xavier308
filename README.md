@@ -31,10 +31,8 @@ I'm Xavier, a passionate developer who loves to create and innovate. With a keen
 
 ## 📌 Pinned Repositories
 <!-- You can add your pinned repositories here once you have some to showcase -->
+[![Github Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xavier308&repo=holbertonschool-higher_level_programming)](https://github.com/MrKrishnaAgarwal/readme-components-github)
 
-## 📈 Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Xavier308&theme=algolia&refresh=1)
-![Github Activity graph](https://activity-graph.herokuapp.com/graph?username=Xavier308l&theme=react-dark&hide_border=true&custom_title=Activity%20Graph)
 ## 🎉 Thanks for visiting!
 Feel free to star ⭐ some repositories if you find them interesting! I'm always open to collaborating on exciting projects, especially those related to health and innovation.
 
