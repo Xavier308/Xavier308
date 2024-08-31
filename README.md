@@ -8,7 +8,7 @@ I'm Xavier, a passionate developer who loves to create and innovate. With a keen
 - 🌱 I'm currently learning Node.js and TypeScript
 - 👯 I'm looking to collaborate on projects related to Health and/or innovation
 - 💬 Ask me about Arduino - I'm passionate about microcontrollers!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/xavier-jose-cruz/) or email at xavierj.cruz@yahoo.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/xavier-jose-cruz/)
 
 ## 🛠 Skills
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
