@@ -20,7 +20,7 @@ I'm Xavier, a passionate developer who loves to create and innovate. With a keen
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xavier308)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xavier308)
 
 
 ## 📊 GitHub Stats
