@@ -27,7 +27,7 @@ I'm Xavier, a passionate developer who loves to create and innovate. With a keen
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Xavier308&show_icons=true&theme=algolia)
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Xavier308&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=Xavier308&theme=algolia)
 
 ## 📌 Pinned Repositories
 <!-- You can add your pinned repositories here once you have some to showcase -->
