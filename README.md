@@ -31,7 +31,7 @@ I'm Xavier, a passionate developer who loves to create and innovate. With a keen
 
 ## 📌 Pinned Repositories
 <!-- You can add your pinned repositories here once you have some to showcase -->
-![Github Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xavier308&repo=holbertonschool-higher_level_programming)
+![Github Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xavier308&repo=olbertonschool-higher_level_programming)
 ![Github Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xavier308&repo=holbertonschool-low_level_programming )
 ![Github Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xavier308&repo=Arduino)
 ![Github Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xavier308&repo=holbertonschool-web_back_end)
