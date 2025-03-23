@@ -4,28 +4,48 @@
 I'm Xavier, a passionate developer who loves to create and innovate. With a keen interest in Python, JavaScript, and Arduino (microcontrollers), I'm always excited to take on new challenges and learn something new every day.
 
 ### 🚀 Quick Facts
-- 🔭 I'm currently working on a project to scrape PDFs with AI
-- 🌱 I'm currently learning Node.js and TypeScript
-- 👯 I'm looking to collaborate on projects related to Health and/or innovation
-- 💬 Ask me about Arduino - I'm passionate about microcontrollers!
+- 🔭 I'm currently working on a project of SOC for Cybersecurity
+- 🌱 I'm currently learning Cybersecurity
+- 👯 I'm looking to collaborate on projects related to Health, innovation and Open Source
+- 💬 Ask me about Arduino and Raspberry Pi - I'm passionate about microcontrollers!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/xavier-jose-cruz/)
 
-## 🛠 Skills
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
+## 🛠 Programming Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<!--![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)-->
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+</div>
 
-## 💻 Top Languages
+<div align="center">
+<h2 align="center" class="section-heading">☁️ Cloud Technologies</h2>
+<p>In the dynamic realm of cloud computing, I am learning to leverage leading cloud platforms and technologies to architect, deploy, and manage scalable, highly available, and fault-tolerant systems. Here's a glance at the cloud technologies I am currently learning:</p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <!--<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"/> -->
+</div> 
+<!---->
+
+<div align="center">
+<h2 align="center" class="section-heading">🔧 Frameworks</h2>
+<p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for its ability to facilitate rapid development and deliver robust functionality</p>
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+<!---->
+<div align="center">
+
+<!--## 💻 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xavier308)
 
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Xavier308&show_icons=true&theme=algolia)
-
+-->
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Xavier308&theme=algolia)
 
@@ -40,4 +60,4 @@ I'm Xavier, a passionate developer who loves to create and innovate. With a keen
 Feel free to star ⭐ some repositories if you find them interesting! I'm always open to collaborating on exciting projects, especially those related to health and innovation.
 
 ### 🔮 Future Interests
-I'm planning to dive into machine learning and AI in the future. If you have any resources or project ideas in these areas, I'd love to hear about them!
+I'm planning to dive into training AI in the future. If you have any resources or project ideas in these areas, I'd love to hear about them!
