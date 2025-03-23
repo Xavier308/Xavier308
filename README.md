@@ -1,9 +1,10 @@
-# Welcome to My GitHub Profile! 👋
+# Welcome to My GitHub Profile!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40"/>
+
 
 ## About Me
 I'm **Xavier**, a passionate developer who loves to create and innovate. With a keen interest in Python, JavaScript, and Electronics, I'm always excited to take on new challenges and learn something new every day.
 
-### 🚀 Quick Facts
+### <img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="25"/> Quick Facts
 - 🌱 Specializing in Cybersecurity.
 - 🔭 Currently working on a SOC project for Cybersecurity.
 - 🤝 Open to collaborating on projects related to health, innovation, and open source.
@@ -134,6 +135,7 @@ I'm **Xavier**, a passionate developer who loves to create and innovate. With a 
 <br>
 
 ## 🎉 Thanks for Visiting!
+
 
 Feel free to ⭐ star any repositories if you find them interesting. I'm always open to collaborating on exciting projects, especially those related to **health**, **innovation**, and **technology**.
 
