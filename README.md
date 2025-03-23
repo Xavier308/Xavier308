@@ -1,103 +1,112 @@
 # Welcome to My GitHub Profile! 👋
 
-
 ## About Me
-I'm Xavier, a passionate developer who loves to create and innovate. With a keen interest in Python, JavaScript, and Electronics, I'm always excited to take on new challenges and learn something new every day.
+I'm **Xavier**, a passionate developer who loves to create and innovate. With a keen interest in Python, JavaScript, and Electronics, I'm always excited to take on new challenges and learn something new every day.
 
 ### 🚀 Quick Facts
-- 🔭 I'm currently working on a SOC project for Cybersecurity
-- 🌱 I'm currently specializing in Cybersecurity
-- 🤝 I'm looking to collaborate on projects related to Health, innovation and Open Source
-- 💬 Ask me about Arduino and Raspberry Pi - I'm passionate about microcontrollers!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/xavier-jose-cruz/)
+- 🌱 Specializing in Cybersecurity.
+- 🔭 Currently working on a SOC project for Cybersecurity.
+- 🤝 Open to collaborating on projects related to health, innovation, and open source.
+- 💬 Ask me about Arduino and Raspberry Pi – I'm passionate about microcontrollers!
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/xavier-jose-cruz/)
 
-<div>
+<br>
 
-<h2 class="section-heading">👨🏾‍💻 Technologies that I've worked with!</h2>
+---
 
-<div>
-  
-<h3 class="section-heading">💻 Programming Languages</h3>
+<br>
 
+## 👨🏾‍💻 Technologies I've Worked With
+
+
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-</div>
 
-<div>
-<h3 class="section-heading">🗄️ Databases </h3>
 
+### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-</div>
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<div>
-<h3 class="section-heading">🛠 Tools </h3>
-  
+
+### 🛠 Tools
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-</div>
 
-<div>
-<h3 class="section-heading">🧰 Frameworks and Libraries</h3>
-  
-<p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for its ability to facilitate rapid development and deliver robust functionality</p>
+
+### 🧰 Frameworks and Libraries
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-</div>
-<!---->
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-<div>
-<h3 class="section-heading">☁️ Cloud Technologies</h3>
-  
-<p>In the dynamic realm of cloud computing, I am learning to leverage leading cloud platforms and technologies to architect, deploy, and manage scalable, highly available, and fault-tolerant systems. Here's a glance at the cloud technologies I am currently learning:</p>
 
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <!--<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"/> -->
-</div> 
-<!---->
+### ☁️ Cloud Technologies
 
-<div>
-<h2 class="section-heading"> 📊 Github Stats</h2>
-<p>These are my Github Stats!</p>
- <table align="center" width="100%" height="100%" >
-    <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xavier308&theme=algolia" alt="Xavier's GitHub Stats"/></td>
-    </tr>
- </table>
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
- <table width="100%" height="100%" >
-    <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xavier308&theme=algolia" alt="Xavier's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xavier308&theme=algolia&utcOffset=10" alt="Xavier's GitHub Stats"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xavier308&theme=algolia" alt="Xavier's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Xavier308&theme=algolia" alt="Xavier's GitHub Stats"/></td>
-    </tr>
- </table>
-</div>
+<br>
 
+---
+
+<br>
+
+## 📊 GitHub Stats
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xavier308&theme=algolia)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xavier308&theme=algolia)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xavier308&theme=algolia&utcOffset=10)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xavier308&theme=algolia)
+![Most Used Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Xavier308&theme=algolia)
+
+<br>
+
+---
+
+<br>
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Xavier308&theme=algolia)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Xavier308&theme=algolia)
+
+<br>
+
+---
+
+<br>
 
 ## 📌 Pinned Repositories
-<!-- You can add your pinned repositories here once you have some to showcase -->
-![Github Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xavier308&repo=holbertonschool-higher_level_programming)
-![Github Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xavier308&repo=holbertonschool-low_level_programming )
-![Github Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xavier308&repo=Arduino)
-![Github Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xavier308&repo=holbertonschool-web_back_end)
 
-## 🎉 Thanks for visiting!
-Feel free to star ⭐ some repositories if you find them interesting! I'm always open to collaborating on exciting projects, especially those related to health and innovation.
+![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Xavier308&repo=holbertonschool-higher_level_programming)
+![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Xavier308&repo=holbertonschool-low_level_programming)
+![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=Xavier308&repo=Arduino)
+![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=Xavier308&repo=holbertonschool-web_back_end)
 
-### 🔮 Future Interests
-I'm planning to dive into training AI in the future. If you have any resources or project ideas in these areas, I'd love to hear about them!
+<br>
+
+---
+
+<br>
+
+## 🎉 Thanks for Visiting!
+
+Feel free to ⭐ star any repositories if you find them interesting. I'm always open to collaborating on exciting projects, especially those related to **health**, **innovation**, and **technology**.
+
+<br>
+
+---
+
+<br>
+
+## 🔮 Future Interests
+
+I'm planning to dive into **training AI**, machine learning and Rust language in the near future. If you have resources or project ideas in these areas, I’d love to hear from you!
+
+<br>
