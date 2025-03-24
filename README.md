@@ -1,5 +1,6 @@
 # Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40"/>
 
+<br>
 
 ## About Me
 I'm Xavier a passionate developer who loves to create and innovate. With a keen interest in Python, JavaScript, and Electronics, I'm always excited to take on new challenges and learn something new every day.
