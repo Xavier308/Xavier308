@@ -11,7 +11,7 @@ I'm Xavier a passionate developer who loves to create and innovate. With a keen 
 
 ### <img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="25"/> Quick Facts
 
-- 🌱 Specializing in Cybersecurity.  
+- 🎓 Specializing in Cybersecurity.  
 - 🔭 Currently working on a SOC project for Cybersecurity.  
 - 🤝 Open to collaborating on projects related to innovation  
 - 💬 Ask me about Arduino and Raspberry Pi 
