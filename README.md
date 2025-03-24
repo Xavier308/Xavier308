@@ -105,7 +105,7 @@ I'm **Xavier**, a passionate developer who loves to create and innovate. With a 
 ![Hydra](https://img.shields.io/badge/Hydra-5A5A5A?style=for-the-badge&logoColor=white)
 ![tcpdump](https://img.shields.io/badge/tcpdump-808080?style=for-the-badge&logoColor=white)
 
-### 🍓 Microcontrollers
+### 🕹️ Microcontrollers
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
