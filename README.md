@@ -1,8 +1,8 @@
 # Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40"/>
 
 
-## I'm Xavier
-A passionate developer who loves to create and innovate. With a keen interest in Python, JavaScript, and Electronics, I'm always excited to take on new challenges and learn something new every day.
+## About Me
+I'm Xavier a passionate developer who loves to create and innovate. With a keen interest in Python, JavaScript, and Electronics, I'm always excited to take on new challenges and learn something new every day.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Xavier308/assets/main/Robot_Working.gif" width="250px" alt="Xavier coding in his laptop"/>
@@ -148,17 +148,18 @@ A passionate developer who loves to create and innovate. With a keen interest in
 
 <br>
 
-## 🎉 Thanks for Visiting!
+## 🔮 Future Interests
 
+I'm planning to dive into **training AI**, machine learning and Rust language in the near future. If you have resources or project ideas in these areas, I’d love to hear from you!
+
+<br>
+
+<br>
+
+## 🎉 Thanks for Visiting!
 
 Feel free to ⭐ star any repositories if you find them interesting. I'm always open to collaborating on exciting projects, especially those related to **health**, **innovation**, and **technology**.
 
 <br>
-
-<br>
-
-## 🔮 Future Interests
-
-I'm planning to dive into **training AI**, machine learning and Rust language in the near future. If you have resources or project ideas in these areas, I’d love to hear from you!
 
 <br>
