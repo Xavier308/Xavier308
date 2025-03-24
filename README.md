@@ -4,6 +4,10 @@
 ## About Me
 I'm **Xavier**, a passionate developer who loves to create and innovate. With a keen interest in Python, JavaScript, and Electronics, I'm always excited to take on new challenges and learn something new every day.
 
+<div>
+  <img src="https://raw.githubusercontent.com/Xavier308/assets/main/Robot_Working.gif" width="300px" align="right" alt="Xavier Aka machine coding in his laptop"/>
+</div>
+
 ### <img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="25"/> Quick Facts
 - 🌱 Specializing in Cybersecurity.
 - 🔭 Currently working on a SOC project for Cybersecurity.
@@ -12,8 +16,6 @@ I'm **Xavier**, a passionate developer who loves to create and innovate. With a 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/xavier-jose-cruz/)
 
 <br>
-
----
 
 <br>
 
