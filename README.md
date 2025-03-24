@@ -1,8 +1,8 @@
-# Welcome to My GitHub Profile!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40"/>
+# Welcome to My Profile!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40"/>
 
 
-## About Me
-I'm **Xavier**, a passionate developer who loves to create and innovate. With a keen interest in Python, JavaScript, and Electronics, I'm always excited to take on new challenges and learn something new every day.
+## I'm Xavier
+A passionate developer who loves to create and innovate. With a keen interest in Python, JavaScript, and Electronics, I'm always excited to take on new challenges and learn something new every day.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Xavier308/assets/main/Robot_Working.gif" width="250px" alt="Xavier coding in his laptop"/>
@@ -12,8 +12,8 @@ I'm **Xavier**, a passionate developer who loves to create and innovate. With a 
 
 - 🌱 Specializing in Cybersecurity.  
 - 🔭 Currently working on a SOC project for Cybersecurity.  
-- 🤝 Open to collaborating on projects related to health, innovation, and open source.  
-- 💬 Ask me about Arduino and Raspberry Pi – I'm passionate about microcontrollers!  
+- 🤝 Open to collaborating on projects related to innovation  
+- 💬 Ask me about Arduino and Raspberry Pi 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/xavier-jose-cruz/)
 
 
@@ -22,7 +22,7 @@ I'm **Xavier**, a passionate developer who loves to create and innovate. With a 
 
 <br>
 
-## 👨🏾‍💻 Technologies I've Worked With
+## 👨🏾‍💻 Tech I've Worked With
 
 
 ### 💻 Programming Languages
