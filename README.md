@@ -6,7 +6,7 @@
 I'm Xavier a passionate developer who loves to create and innovate. With a keen interest in Python, JavaScript, and Electronics, I'm always excited to take on new challenges and learn something new every day.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Xavier308/assets/main/Robot_Working.gif" width="250px" alt="Xavier coding in his laptop"/>
+  <img src="https://raw.githubusercontent.com/Xavier308/assets/main/Robot_Working.gif" width="500px" alt="Xavier coding in his laptop"/>
 </p>
 
 ### <img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="25"/> Quick Facts
