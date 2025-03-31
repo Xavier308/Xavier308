@@ -14,7 +14,7 @@ I'm Xavier a passionate developer who loves to create and innovate. With a keen 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/xavier-jose-cruz/)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Xavier308/assets/main/Main_readme/Robot_Working.gif" width="500px" alt="Xavier coding in his laptop"/>
+  <img src="https://raw.githubusercontent.com/Xavier308/Assets/main/Main_readme/Robot_Working.gif" width="500px" alt="Xavier coding in his laptop"/>
 </p>
 
 ## 👨🏾‍💻 Tech I've Worked With
