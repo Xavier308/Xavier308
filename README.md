@@ -7,15 +7,13 @@ I'm Xavier a passionate developer who loves to create and innovate. With a keen 
 
 ### <img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="25"/> Quick Facts
 
-- 🎓 Specializing in Cybersecurity.  
+- 🎓 Specialized in Cybersecurity.  
 - 🔭 Currently working on a SOC project for Cybersecurity.  
 - 🤝 Open to collaborating on projects related to innovation  
 - 💬 Ask me about Arduino and Raspberry Pi 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/xavier-jose-cruz/)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Xavier308/Assets/main/Main_readme/Robot_Working.gif" width="500px" alt="Xavier coding in his laptop"/>
-</p>
+
 
 ## 👨🏾‍💻 Tech I've Worked With
 
