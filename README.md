@@ -116,12 +116,7 @@ I'm Xavier a passionate developer who loves to create and innovate. With a keen 
 
 <br>
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Xavier308&theme=algolia)
 
-<br>
-
-<br>
 
 ## 📌 Pinned Repositories
 
