@@ -8,9 +8,6 @@ I'm Xavier a passionate developer who loves to create and innovate. With a keen 
 ### <img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="25"/> Quick Facts
 
 - 🎓 Specialized in Cybersecurity.  
-- 🔭 Currently working on a SOC project for Cybersecurity.  
-- 🤝 Open to collaborating on projects related to innovation  
-- 💬 Ask me about Arduino and Raspberry Pi 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/xavier-jose-cruz/)
 
 
@@ -139,7 +136,7 @@ I'm Xavier a passionate developer who loves to create and innovate. With a keen 
 
 ## 🔮 Future Interests
 
-I'm planning to dive into **training AI**, machine learning and Rust language in the near future. If you have resources or project ideas in these areas, I’d love to hear from you!
+I'm planning to dive into **training AI**, machine learning and Rust language in the near future.
 
 <br>
 
@@ -147,7 +144,7 @@ I'm planning to dive into **training AI**, machine learning and Rust language in
 
 ## 🎉 Thanks for Visiting!
 
-Feel free to ⭐ star any repositories if you find them interesting. I'm always open to collaborating on exciting projects, especially those related to **health**, **innovation**, and **technology**.
+Feel free to ⭐ star any repositories if you find them interesting.
 
 <br>
 
