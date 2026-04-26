@@ -3,12 +3,18 @@
 <br>
 
 ## About Me
-I'm Xavier a passionate developer who loves to create and innovate. With a keen interest in Python, JavaScript, and Electronics, I'm always excited to take on new challenges and learn something new every day.
+I'm Xavier, software Engineer transitioning from 8 years in clinical healthcare. I build full-stack apps, automate workflows, and bring a precision-first mindset to every line of code. Currently open to full-stack, backend, and cloud roles.
 
 ### <img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="25"/> Quick Facts
 
-- 🎓 Specialized in Cybersecurity.  
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/xavier-jose-cruz/)
+
+* 🎓 Specialized in Cybersecurity
+* 🔐 CompTIA Security+ | ☁️ AWS Certified Cloud Practitioner | 🛡️ ISC2 Certified in Cybersecurity (CC)
+* 💻 Currently open to Full-Stack & Backend roles
+* 📍 Based in Puerto Rico — available for remote or relocation
+* 🌐 Visit my website: [Portfolio](https://www.xavierjcruz.dev/)
+* 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/xavier-jose-cruz/)
+
 
 
 
@@ -120,10 +126,12 @@ I'm Xavier a passionate developer who loves to create and innovate. With a keen 
 
 ## 📌 Pinned Repositories
 
-![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Xavier308&repo=holbertonschool-higher_level_programming)
-![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Xavier308&repo=holbertonschool-low_level_programming)
-![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=Xavier308&repo=Arduino)
-![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=Xavier308&repo=holbertonschool-web_back_end)
+![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Xavier308&repo=Sentinel-AK-XL)
+![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Xavier308&repo=RepairMate_2025)
+![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=Xavier308&repo=GenieMovieAI)
+![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=Xavier308&repo=DevTyping-app)
+![Repo 5](https://github-readme-stats.vercel.app/api/pin/?username=Xavier308&repo=holbertonschool-simple_shell)
+![Repo 6](https://github-readme-stats.vercel.app/api/pin/?username=Xavier308&repo=Twinglish)
 
 <br>
 
@@ -143,4 +151,12 @@ Feel free to ⭐ star any repositories if you find them interesting.
 
 <br>
 
+<br>
+**Let’s Connect**
+
+* **LinkedIn:** [https://linkedin.com/in/xavier-jose-cruz](https://linkedin.com/in/xavier-jose-cruz)
+* **Portfolio:** [https://xavierjcruz.dev](https://xavierjcruz.dev)
+* **Email:** [xavierj.cruzsantiago@gmail.com](mailto:xavierj.cruzsantiago@gmail.com)
+
+<br>
 <br>
