@@ -3,7 +3,7 @@
 <br>
 
 ## About Me
-I'm Xavier, software Engineer transitioning from 8 years in clinical healthcare. I build full-stack apps, automate workflows, and bring a precision-first mindset to every line of code. Currently open to full-stack, backend, and cloud roles.
+I'm Xavier, Software Engineer transitioning from 8 years in clinical healthcare. I build full-stack apps, automate workflows, and bring a precision-first mindset to every line of code. Currently open to full-stack, backend, and cloud roles.
 
 ### <img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="25"/> Quick Facts
 
