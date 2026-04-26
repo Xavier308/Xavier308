@@ -122,6 +122,7 @@ I'm Xavier, Software Engineer transitioning from 8 years in clinical healthcare.
 
 <br>
 
+---
 
 
 ## 🎉 Thanks for Visiting!
@@ -131,6 +132,7 @@ Feel free to ⭐ star any repositories if you find them interesting.
 <br>
 
 <br>
+
 ## Let’s Connect
 
 * **LinkedIn:** [https://linkedin.com/in/xavier-jose-cruz](https://linkedin.com/in/xavier-jose-cruz)
@@ -138,4 +140,6 @@ Feel free to ⭐ star any repositories if you find them interesting.
 * **Email:** [xavierj.cruzsantiago@gmail.com](mailto:xavierj.cruzsantiago@gmail.com)
 
 <br>
+
 <br>
+---
