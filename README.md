@@ -123,13 +123,6 @@ I'm Xavier, Software Engineer transitioning from 8 years in clinical healthcare.
 <br>
 
 
-## 🔮 Future Interests
-
-I'm planning to dive into **training AI**, machine learning and Rust language in the near future.
-
-<br>
-
-<br>
 
 ## 🎉 Thanks for Visiting!
 
@@ -138,7 +131,7 @@ Feel free to ⭐ star any repositories if you find them interesting.
 <br>
 
 <br>
-**Let’s Connect**
+## Let’s Connect
 
 * **LinkedIn:** [https://linkedin.com/in/xavier-jose-cruz](https://linkedin.com/in/xavier-jose-cruz)
 * **Portfolio:** [https://xavierjcruz.dev](https://xavierjcruz.dev)
