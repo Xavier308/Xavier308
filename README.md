@@ -118,11 +118,12 @@ I'm Xavier, Software Engineer transitioning from 8 years in clinical healthcare.
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xavier308&theme=algolia)
 ![Most Used Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Xavier308&theme=algolia)
 
-<br>
-
-<br>
-
 ---
+<br>
+
+<br>
+
+
 
 
 ## 🎉 Thanks for Visiting!
@@ -142,4 +143,4 @@ Feel free to ⭐ star any repositories if you find them interesting.
 <br>
 
 <br>
----
+
