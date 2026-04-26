@@ -123,21 +123,6 @@ I'm Xavier, Software Engineer transitioning from 8 years in clinical healthcare.
 <br>
 
 
-
-## 📌 Pinned Repositories
-
-![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Xavier308&repo=Sentinel-AK-XL)
-![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Xavier308&repo=RepairMate_2025)
-![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=Xavier308&repo=GenieMovieAI)
-![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=Xavier308&repo=DevTyping-app)
-![Repo 5](https://github-readme-stats.vercel.app/api/pin/?username=Xavier308&repo=holbertonschool-simple_shell)
-![Repo 6](https://github-readme-stats.vercel.app/api/pin/?username=Xavier308&repo=Twinglish)
-
-
-<br>
-
-<br>
-
 ## 🔮 Future Interests
 
 I'm planning to dive into **training AI**, machine learning and Rust language in the near future.
